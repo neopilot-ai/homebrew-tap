@@ -1,8 +1,8 @@
 class GitWtr < Formula
   desc "Git worktree manager with editor and AI tool integration"
   homepage "https://github.com/neopilot-ai/wtr"
-  url "https://github.com/neopilot-ai/wtr/archive/refs/tags/v2.11.2.tar.gz"
-  sha256 "21505ad2541d5be6135ed84fc33697146cf75b8e"
+  url "https://github.com/neopilot-ai/wtr/archive/refs/tags/v2.11.1.tar.gz"
+  sha256 "2f551a235a97e688fe6e0e9236a51010257fa32cfa1fd442b09539fb127122be"
   license "Apache-2.0"
 
   depends_on "git"
